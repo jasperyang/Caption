@@ -1,4 +1,4 @@
-# Docker Tensorflow
+# Docker_Tensorflow
 ## Docker command
 * `docker ps -a` 查看所有镜像
 * `exit` 退出当前容器
@@ -28,7 +28,7 @@
 
 
 
-### dingding server
+### 丁丁 server
 * `sudo nvidia-docker run -it gcr.io/tensorflow/tensorflow:latest bash`
 * `sudo docker commit -a "nvidia" -m "add vim" 6c29b9a827a9  gcr.io/tensorflow/tensorflow:latest`
 * `sudo docker run -it -v /home/windward:/root gcr.io/tensorflow/tensorflow:latest bash`
