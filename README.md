@@ -15,6 +15,8 @@
 * ***Show and Tell: A Neural Image Caption Generator*** *2015 google [github](https://github.com/tensorflow/models/tree/master/im2txt)*
 * ***Show and Tell: Lessons learned from the 2015
 MSCOCO Image Captioning Challenge*** *两篇关于Show and Tell模型的论文*
+* ***Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning***  *GoogleNet V4模型*
+
 
 ## Caveat
 * ***团结就是力量!!!***
