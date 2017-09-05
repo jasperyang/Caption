@@ -10,6 +10,9 @@
 * ***[Show and Tell: image captioning open sourced in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)***
 * ***[「Show and Tell」——图像标注（Image Caption）任务技术综述](https://zhuanlan.zhihu.com/p/27771046)***
 
+###### seq2seq模型:
+* ***[深度学习笔记(六)：Encoder-Decoder模型和Attention模型](http://blog.csdn.net/u014595019/article/details/52826423)***
+
 ## Papers
 * ***Show and Tell: A Neural Image Caption Generator*** *2015 google [github](https://github.com/tensorflow/models/tree/master/im2txt)*
 * ***Show and Tell: Lessons learned from the 2015
