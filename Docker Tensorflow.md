@@ -30,5 +30,5 @@
 
 ### 丁丁 server
 * `sudo nvidia-docker run -it gcr.io/tensorflow/tensorflow:latest bash`
-* `sudo docker commit -a "nvidia" -m "add vim" 6c29b9a827a9  gcr.io/tensorflow/tensorflow:latest`
-* `sudo docker run -it -v /home/windward:/root gcr.io/tensorflow/tensorflow:latest bash`
+* `sudo nvidia-docker commit -a "nvidia" -m "add vim" 6c29b9a827a9  gcr.io/tensorflow/tensorflow:latest`
+* `sudo nvidia-docker run -it -v /home/windward:/root gcr.io/tensorflow/tensorflow:latest bash`
