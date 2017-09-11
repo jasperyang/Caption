@@ -26,4 +26,5 @@ MSCOCO Image Captioning Challenge*** *两篇关于Show and Tell模型的论文*
 * ***团结就是力量!!!***
 * 论文、讲义要及时共享!!
 * ***[MS COCO 数据集](http://mscoco.org/)***
+* [Image Caption 官方评价](https://github.com/AIChallenger/AI_Challenger/tree/master/chuangxin_eval_public)
 
