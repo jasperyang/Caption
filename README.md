@@ -21,6 +21,7 @@ MSCOCO Image Captioning Challenge*** *两篇关于Show and Tell模型的论文*
 
 ## Tensorflow
 * ***[Getting Started With TensorFlow](https://tensorflow.google.cn/get_started/get_started)***  *入门必备教程*
+* ***CS224d-Tensorflow*** *Tensorflow cs224d教程* 
 
 ## Caveat
 * ***团结就是力量!!!***
