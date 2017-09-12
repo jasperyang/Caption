@@ -10,6 +10,10 @@
 * ***[Show and Tell: image captioning open sourced in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)***
 * ***[「Show and Tell」——图像标注（Image Caption）任务技术综述](https://zhuanlan.zhihu.com/p/27771046)***
 
+###### Show attend Tell 模型详解：
+* ***[【图像理解】之Show, attend and tell算法详解 ](http://blog.csdn.net/shenxiaolu1984/article/details/51493673)
+* ***[git 开源tensorflow实现](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow)
+
 ###### seq2seq模型:
 * ***[深度学习笔记(六)：Encoder-Decoder模型和Attention模型](http://blog.csdn.net/u014595019/article/details/52826423)***
 
